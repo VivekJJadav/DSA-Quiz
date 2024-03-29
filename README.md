@@ -1,3 +1,3 @@
-# React Quiz
+# DSA Quiz
 
-Check your knowledge of React.js
+Check your knowledge of Data Structure  & Algorithm 
